@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @williamngoy
+- 👋 Hi, I’m @Bill William
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning data engeneering 
 - 💞️ I’m looking to become a data professional 
