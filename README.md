@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bill William
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning data engeneering 
+- 👋 Hi, I’m @ William lukumbi
+- 👀 I’m interested in data science and business
+- 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to become a data professional 
 - 📫 How to reach me : bill120299@gmail.com
 
